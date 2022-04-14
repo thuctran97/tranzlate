@@ -1,0 +1,19 @@
+{
+  "name": "tranzlate",
+  "version": "1.0.0",
+  "description": "Image Translate Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuctran97/tranzlate.git"
+  },
+  "author": "thuctran97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thuctran97/tranzlate/issues"
+  },
+  "homepage": "https://github.com/thuctran97/tranzlate#readme"
+}
